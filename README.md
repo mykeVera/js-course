@@ -2,5 +2,5 @@
 
 ```bash
 # Academy
-https://academia.holamundo.io/courses/ultimate-javascript
+$ https://academia.holamundo.io/courses/ultimate-javascript
 ```
